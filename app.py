@@ -44,7 +44,7 @@ I want the response in one single string having the structure
 
 ## streamlit app
 st.title("GemHire")
-st.text("🧠 Improve Your Resume ATS")
+st.text("🧠 Revolutionizing Recruitment, One Gem at a Time.")
 
 jd = st.text_area("Paste the Job Description")
 uploaded_file = st.file_uploader("Upload Your Resume", type="pdf", help="Please upload a PDF file")
