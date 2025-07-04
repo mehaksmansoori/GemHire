@@ -43,7 +43,7 @@ I want the response in one single string having the structure
 """
 
 ## streamlit app
-st.title("Smart ATS")
+st.title("GemHire")
 st.text("🧠 Improve Your Resume ATS")
 
 jd = st.text_area("Paste the Job Description")
